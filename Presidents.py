@@ -92,5 +92,6 @@ list_of_us_presidents = [
     ["George W. Bush", "2001–2009", "Dick Cheney"],
     ["Barack Obama", "2009–2017", "Joe Biden"],
     ["Donald Trump", "2017–2021", "Mike Pence"],
-    ["Joe Biden", "2021–present", "Kamala Harris"]
+    ["Joe Biden", "2021–present", "Kamala Harris"],
+    ["Donald Trump", "2025-present", "Vance"]
 ]
